@@ -4,3 +4,6 @@ $ man gitworkflows
 
 
 $ git log (All the comments list and details)
+$ mkdir test; cd test 
+$ git clone /home/user-01/do400 
+
