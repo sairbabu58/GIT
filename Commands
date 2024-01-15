@@ -4,6 +4,12 @@ $ man gitworkflows
 
 
 $ git log (All the comments list and details)
+
 $ mkdir test; cd test 
 $ git clone /home/user-01/do400 
 
+$ git branch 
+  *master
+$ git branch -M main
+$ git branch 
+  *main
