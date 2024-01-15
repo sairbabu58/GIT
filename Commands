@@ -10,6 +10,11 @@ $ git clone /home/user-01/do400
 
 $ git branch 
   *master
-$ git branch -M main
+$ git branch -M main (Rename branch name)
 $ git branch 
   *main
+
+$ git diff (Before add execute this command and check the changes)
+$ git show
+
+$ git reset HEAD file.txt
