@@ -1,3 +1,6 @@
 $ man git
 $ man gittutorial
 $ man gitworkflows
+
+
+$ git log (All the comments list and details)
