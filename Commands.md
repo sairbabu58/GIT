@@ -21,7 +21,7 @@ $ git branch
 ```
 $ git diff (Before add execute this command and check the changes)
 $ git show
-``
+```
 ```
 $ git reset HEAD file.txt
 ```
